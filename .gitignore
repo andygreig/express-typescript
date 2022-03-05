@@ -1,0 +1,22 @@
+# Build files
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# NPM cache directory
+.npm
+
+
+# Other
+.history
+.idea
+.vscode
+.DS_Store
+.vercel
+.cache
